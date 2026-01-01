@@ -1,0 +1,157 @@
+login_form_header: Authentifizierung benötigt!
+login_failed: Login fehlgeschlagen!
+login_username: Benutzer
+login_password: Password
+login_submit: Login
+save_resource: Speichern
+create_resource: Anlegen
+button_ok: OK
+unexpected_error_title: Unerwarteter Fehler
+unexpected_error_text: Beim Speichern der Resource ist ein unerwarteter Fehler aufgetreten. Sollte das Problem weiterhin bestehen, wenden Sie sich bitte an lucas.kulla{'@'}dkfz.de.
+save_button_pending: Warte auf Antwort vom Backend…
+schema_invalid: Schema ungültig!
+add_new_resource: Neue Ressource
+
+
+resource_unloadable_notice: Diese Ressource konnte leider nicht geladen werden.
+
+_id: ID
+_hub: Hub
+_type: Type
+mappingCategory: Category
+resourceName: Name
+name: name
+nameType: type
+nameLanguage: language
+identifier: Other IDs
+id: value
+identifierType: type
+resourceDescription: Description
+resourceUri: URL
+documentationUri: Documentation
+contact: Contact
+contactName: Name
+contactIdentifier: Identifier
+contactIdentifierSystem: ID type
+contactUri: URI
+contactRole: Role
+emptyContactName: Unbenannter Kontakt
+emptyApiName: Unbenannte API
+keyword: Keywords
+date: Date
+resourceDate: value
+dateType: type
+resourceStatus: Status
+relatedHelmholtzCentre: Zentrum
+helmholtzCentre: name
+relationType: relation type
+scientificDiscipline: Scientific discipline
+helmholtzResearchField: Helmholtz research field
+
+
+dataFormatVersion: Version
+isOpenStandard: Is an open standard
+formatType: Application area
+filenameExtension: Filename extension
+
+dataSourceType: Type
+api: API
+apiProtocol: Protokoll
+apiBaseUri: Base URI
+apiDocumentationUri: Documentation
+
+author: Author
+fullname: full name
+#name: name
+surname: surname
+affiliation: affiliation
+authorPID: PID
+bestAccessRight: Access right
+code: code
+label: label
+scheme: scheme
+contributor: Contributor
+relatedPublications: Related publications
+country: Country
+#code: code
+#label: label
+dataFormat: Format
+geolocation: Geolocation
+box: box
+place: place
+point: point
+publisher: Publisher
+fairScore: FAIR score by F-UJI [%]
+version: version
+assessmentDate: date
+totalScore: total score
+FScore: F score
+AScore: A score
+IScore: I score
+RScore: R score
+size: Size
+source: Source
+tool: Tool
+dataType: Type
+
+DocumentType: Type
+documentVersion: Version
+
+LicenseScope: Scope
+licenseJurisdiction: Jurisdiction
+isMachineReadable: Is machine readable
+licenseVersion: Version
+
+metadataStandardVersion: Version
+metadataStandardScope: Scope
+
+externalIRI: External IRI
+
+organizationType: Type
+geographicAreaServed: Geographic area served
+
+identifierScope: Scope
+hasMinimumMetadata: Requires minimal metadata
+hasVersionControl: Has version control
+
+policyType: Type
+policyTargetGroup: Target group
+policyVersion: Version
+
+repositoryType: Type
+repositoryLanguage: Language
+# api: API
+# apiProtocol: protocol
+# apiBaseUri: base URI
+# apiDocumentationUri: documentation
+dataAccess: Data access level
+databaseAccess: Repository access level
+dataUploadType: Data upload openness level
+offersEnhancedPublication: Offers enhanced publication
+providerType: Provider type
+contentType: Content type
+
+crosswalkVersion: Version
+# isMachineReadable: Is machine readable
+
+softwareType: Type
+developmentStatus: Development status
+softwareVersion: Version
+
+terminologyType: Type
+terminologyLanguage: Language
+dereferencableResource: Dereferencable resource
+hasDereferencableTerms: Has dereferencable terms
+hasTextualDefinitions: Has textual definitions
+hasMachineReadableDefinitions: Has machine readable definitions
+terminologyPrefix: Terminology prefix
+terminologyVersion: Version
+
+trainingMaterialType: Type
+trainingMaterialTypeGeneral: DataCite type
+trainingMaterialLanguage: Language
+resourceFileSize: File size
+resourceDuration: Consumption Duration
+trainingMaterialVersion: Version
+accessCondition: Access level
+hasAccessCost: Has access cost
